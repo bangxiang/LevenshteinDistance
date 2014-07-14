@@ -1,4 +1,4 @@
-# A SetCover Solver with the greedy algorithm  #
+# Levenshtein distance calulation  #
 This is a C++ implementation of Levenshtein distance, which is measuring the difference between sequences.
 
 Refer http://en.wikipedia.org/wiki/Levenshtein_distance for more details.
